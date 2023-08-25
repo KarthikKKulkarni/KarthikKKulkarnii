@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik K Kulkarni</h1>
-<h3 align="center">Aspiring Computer Science and Engineering Student</h3>
+<h3 align="center">Computer Science Engineer</h3>
 
 - 📫 How to reach me **kulkarnikarthik619@gmail.com**
 
